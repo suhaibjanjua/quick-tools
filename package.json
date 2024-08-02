@@ -1,0 +1,43 @@
+{
+  "name": "quick-tools",
+  "version": "1.0.0",
+  "description": "A collection of versatile utilities for streamlining various development tasks and enhancing productivity.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhaibjanjua/quick-tools.git"
+  },
+  "keywords": [
+    "Utilities",
+    "Development",
+    "Tools",
+    "Code",
+    "Snippets",
+    "Productivity",
+    "Automation",
+    "JSON",
+    "Tools",
+    "Changelog",
+    "Code",
+    "Management",
+    "Scripts",
+    "Developer",
+    "Utilities",
+    "Data",
+    "Manipulation",
+    "Tooling",
+    "DevOps",
+    "Efficiency",
+    "Tech",
+    "Tools"
+  ],
+  "author": "Suhaib A. Janjua <suhaib.janjua@gmail.com> (https://suhaibjanjua.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhaibjanjua/quick-tools/issues"
+  },
+  "homepage": "https://github.com/suhaibjanjua/quick-tools#readme"
+}
