@@ -1,0 +1,26 @@
+{
+  "header": {
+      "en": "English",
+      "es": "Español",
+      "about": "About Us"
+  },
+  "sidebar": {
+      "home": "Home",
+      "productCatalog": "Product Catalog",
+      "userProfiles": "User Profiles",
+      "orderHistory": "Order History",
+      "customerSupport": "Customer Support",
+      "settings": "Settings",
+      "profileSettings": "Profile Settings",
+      "notifications": "Notifications",
+      "feedback": "Feedback",
+      "shippingInfo": "Shipping Information",
+      "paymentMethods": "Payment Methods",
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy",
+      "contactUs": "Contact Us",
+      "faq": "FAQ",
+      "helpGuide": "Help Guide",
+      "systemStatus": "System Status"
+  }
+}

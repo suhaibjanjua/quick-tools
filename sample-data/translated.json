@@ -1,0 +1,21 @@
+{
+  "header": {
+      "en": "English",
+      "fr": "Français",
+      "about": "À propos"
+  },
+  "sidebar": {
+      "home": "Accueil",
+      "productCatalog": "Catalogue de produits",
+      "userProfiles": "Profils d'utilisateur",
+      "orderHistory": "Historique des commandes",
+      "customerSupport": "Support client",
+      "settings": "Paramètres",
+      "profileSettings": "Paramètres du profil",
+      "feedback": "Retour d'information",
+      "shippingInfo": "Informations sur la livraison",
+      "paymentMethods": "Méthodes de paiement",
+      "termsOfService": "Conditions d'utilisation",
+      "privacyPolicy": "Politique de confidentialité"
+  }
+}
